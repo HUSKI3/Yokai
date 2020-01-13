@@ -1,7 +1,7 @@
 # Yokai
-# A template for a simple 32bit Kernel. 
+## A template for a simple 32bit Kernel. 
 
-#Requirements:
+# Requirements:
   - < Python3
   - Nasm assembler
 
