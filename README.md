@@ -1,5 +1,5 @@
 # Yokai
-# A template for a simple 32bit Kernel.
+# A template for a simple 32bit Kernel. !!!YOKAI only supports python 3!!!
 
 > Yokai is a tool that will help you create a tamplate for your operating system, it provides a basic stripped down version of a kernel as well as a simple graphic format.
 
